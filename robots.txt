@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imomauno.github.io/sitemap_index.imomauno
